@@ -8,7 +8,7 @@ We want to share our thoughts and hopefully in the road inspire someone.
 
 ### Who are we
 
-Funders:
+Founders:
 
 Keith Patarroyo<br/>
 Juan Florez
