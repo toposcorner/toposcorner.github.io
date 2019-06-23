@@ -10,7 +10,7 @@ We want to share our thoughts and hopefully in the road inspire someone.
 
 Funders:
 
-Keith Patarroyo
+Keith Patarroyo<br/>
 Juan Florez
 
 Contributors:
