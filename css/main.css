@@ -713,6 +713,7 @@ footer .theme-by {
   padding: 10px 5px;
   background-color: {{ site.link-col }};
   border-radius: 20px;
+  border: 1px solid  {{ site.link-col }};
   color: #fff;
 }
 @media only screen and (min-width: 768px) {
