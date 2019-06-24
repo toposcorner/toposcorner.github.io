@@ -8,10 +8,10 @@
 	  {% assign imgnum = forloop.index %}
 	  {% for imginfo in bigimg %}
 	    {% if imginfo[0] %}
-		  data-img-src-{{ imgnum }}="{{ imginfo[0] | relative_url }}"
+		  data-img-src-{{ imgnum }}="{{ imginfo[0] | prepend: site.baseurl | replace: '//', '/' }}"
 		  data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
 		{% else %}
-		  data-img-src-{{ imgnum }}="{{ imginfo | relative_url }}"
+		  data-img-src-{{ imgnum }}="{{ imginfo | prepend: site.baseurl | replace: '//', '/' }}"
 		{% endif %}
 	  {% endfor %}
     {% endfor %}
@@ -34,7 +34,13 @@
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
-		  
+		{% if page.use-site-title %}
+		  <ul class="homie" style="list-style: none; ">
+			  <li class="next">
+				  <a href="{{ page.learnmore }}">Learn More</a>
+			  </li>
+		</ul>
+		{% endif %}
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
@@ -59,7 +65,13 @@
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
-		  
+		{% if page.use-site-title %}
+		  <ul class="homiesmall" style="list-style: none; ">
+			  <li class="next">
+				  <a href="{{ page.learnmore }}">Learn More</a>
+			  </li>
+		</ul>
+		{% endif %}
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
