@@ -17,19 +17,20 @@ baseurl: ""
 title: Topos-Corner
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: A library of ideas and formalized thoughts
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Blog:
-    - Machine Learning: "https://pages.github.com/"
-    - Economy: "https://pages.github.com/"
-    - Math: "https://pages.github.com/"
-    - Physics: "https://pages.github.com/"
-    - Computer Science: "https://pages.github.com/"
-  Columns: "http://deanattali.com"
+    - Machine Learning: "https://toposcorner.github.io/tags/#ML"
+    - Economy: "https://toposcorner.github.io/tags/#Economy"
+    - Math: "https://toposcorner.github.io/tags/#Math"
+    - Physics: "https://toposcorner.github.io/tags/#Physics"
+    - Computer Science: "https://toposcorner.github.io/tags/#CS"
+    - Education: "https://toposcorner.github.io/tags/#Education"
+  Columns: "aboutme"
   About Topos: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
