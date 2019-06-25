@@ -88,6 +88,7 @@ img::-moz-selection {
 
 img {
   max-width: 100%;
+  vertical-align: text-bottom;
 }
 
 .disqus-comments {
@@ -128,6 +129,7 @@ img {
 .navbar-custom .nav li a {
   font-weight: 800;
   color: {{ site.navbar-text-col }};
+  font-size: 25px;
   border-bottom: 3px solid rgba(0,0,0,.0001);
 }
 
