@@ -31,8 +31,6 @@ How about a yummy crepe?
 
 Here's a code chunk:
 
-![Crepe](https://github.com/toposcorner/toposcorner.github.io/blob/master/img/small-stars-announce.png)
-
 ~~~
 var foo = function(x) {
   return(x + 5);
