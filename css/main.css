@@ -560,7 +560,7 @@ footer .theme-by {
   background-color: site.page-col;
   margin: 0 0 40px;
   padding: 20px 0;
-  box-shadow: 0px 20px 20px 0px #272727;
+  box-shadow: 0px 2px 2px 0px #272727;
   border-radius: 0px 0px 20px 20px;
 }
 /* Many phones are 320 or 360px, so make sure images are a proper aspect ratio in those cases */
