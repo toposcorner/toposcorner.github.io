@@ -632,6 +632,7 @@ footer .theme-by {
   border-radius: 20px;
   /* border-color: #f48226; */
   color: #fff;
+  box-shadow: 0px 0px 5px 5px rgba(0,0,0,.5);
   text-shadow: none;
 }
 
