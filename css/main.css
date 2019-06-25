@@ -879,6 +879,14 @@ td.gutter {
 
 .tag-btn {
   margin: 5px;
+  background-color: {{ site.link-col }};
+  border-color: {{ site.link-col }};
+}
+
+.tag-btn:hover {
+  margin: 5px;
+  background-color: {{ site.hover-col }};
+  border-color: {{ site.hover-col }};
 }
 
 #full-tags-list {
