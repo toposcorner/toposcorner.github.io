@@ -9,7 +9,7 @@ author: Staff
 
 The site is now open !
 
-![Stars](https://github.com/toposcorner/toposcorner.github.io/blob/master/img/small-stars-announce.png)
+![Stars](https://raw.githubusercontent.com/toposcorner/toposcorner.github.io/master/img/small-stars-announce.png)
 
 First of all we want to greet all of our contributors and start by telling what is the idea behind this site.
 
