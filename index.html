@@ -19,10 +19,16 @@ bigimg: /img/stars-united-v3.PNG
 	  {% endif %}
     </a>
 
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-
+      {% if post.author %}
+    	<p class="post-meta">
+      	Posted on {{ post.date | date: "%B %-d, %Y" }} by {{ post.author }}
+    	</p>
+      {% else %}
+    	<p class="post-meta">
+     	 Posted on {{ post.date | date: "%B %-d, %Y" }}
+    	</p>
+      {% endif %}
+	  
     <div class="post-entry-container">
       {% if post.image %}
       <div class="post-image">
