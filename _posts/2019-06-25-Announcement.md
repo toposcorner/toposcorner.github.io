@@ -9,6 +9,12 @@ author: Staff
 
 The site is now open !
 
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 First of all we want to greet all of our contributors and start by telling what is the idea behind this site.
 
 ## Vision
