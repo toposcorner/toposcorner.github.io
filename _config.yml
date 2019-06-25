@@ -31,6 +31,7 @@ navbar-links:
     - Computer Science: "https://toposcorner.github.io/tags/#CS"
     - Education: "https://toposcorner.github.io/tags/#Education"
   Columns: "aboutme"
+  Search ⌕: "aboutme"
   About Topos: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
