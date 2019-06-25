@@ -11,9 +11,10 @@ There are many features that I would like to implement in the website. I've list
 
 - Author tags or link to Author Page
 - Author page
-- [Markdeep](http://casual-effects.com/markdeep/features.md.html)
-- Search Functionality
 - Fix Comments
+- [Markdeep](http://casual-effects.com/markdeep/features.md.html)
+- [three.js](https://threejs.org/)
+- Search Functionality
 - Login functionality ?
 - Interface to write a post...
 
