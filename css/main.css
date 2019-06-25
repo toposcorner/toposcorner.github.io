@@ -270,6 +270,7 @@ img {
   }
   .navbar-custom .nav .navlinks-children {
     position: absolute;
+    box-shadow:0 2px 2px rgba(0,0,0,.3);
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
