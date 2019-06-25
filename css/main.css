@@ -129,7 +129,6 @@ img {
 .navbar-custom .nav li a {
   font-weight: 800;
   color: {{ site.navbar-text-col }};
-  font-size: 25px;
   border-bottom: 3px solid rgba(0,0,0,.0001);
 }
 
@@ -150,6 +149,7 @@ img {
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
+  font-size: 25px;
 }
 .navbar-custom .navbar-brand-logo img {
   height: 46px;
