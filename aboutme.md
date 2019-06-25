@@ -10,7 +10,8 @@ We want to share our thoughts and hopefully in the road inspire someone.
 
 Founders:
 
-[Keith Patarroyo](https://keithpatarroyo.github.io/)
+[Keith Patarroyo](https://keithpatarroyo.github.io/) 
+
 Juan Florez
 
 Contributors:
