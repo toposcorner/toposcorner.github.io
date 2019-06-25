@@ -4,7 +4,7 @@ title: Possible Website Updates
 subtitle: Features that improve the experience
 tags: [Meta,Community,Announcements,Update]
 comments: true
-author: Keith
+author: Keith Patarroyo
 ---
 
 There are many features that I would like to implement in the website. I've listed from most to less urgent, also 
