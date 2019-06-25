@@ -46,7 +46,8 @@
 		  		<span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} by {{ page.author}}</span>
 			{% else %}
 				<span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} by {{ page.author}}</span>
-		  {% endif %}
+		  	{% endif %}
+		{% endif %}
         </div>
       </div>
     </div>
@@ -80,7 +81,8 @@
 		  		<span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} by {{ page.author}}</span>
 			{% else %}
 				<span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} by {{ page.author}}</span>
-		  {% endif %}
+			{% endif %}  
+		{% endif %}
         </div>
       </div>
     </div>
