@@ -46,15 +46,15 @@ title-img: "/img/small-stars-black-2.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#272727"
+navbar-col: "#1da1f2"
 navbar-text-col: "#ffffff"
-navbar-children-col: "#282828"
-page-col: "#c8c8c8"
-link-col: "#b602fd"
-hover-col: "#7402de"
-footer-col: "#272727"
+navbar-children-col: "#1da1f2"
+page-col: "#ffffff"
+link-col: "#1da1f2"
+hover-col: "#147cbc"
+footer-col: "#1da1f2"
 footer-text-col: "#ffffff"
-footer-link-col: "#b602fd"
+footer-link-col: "#147cbc"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -76,7 +76,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "toposcorner@gmail.com"
 #  facebook: daattali
   github: toposcorner
 #  twitter: daattali
