@@ -6,6 +6,8 @@ subtitle: A bunch of enthusiastic minds
 
 We want to share our thoughts and hopefully in the road inspire someone.
 
+![Stars](https://raw.githubusercontent.com/toposcorner/toposcorner.github.io/master/img/small-stars-announce.png)
+
 ### Who are we
 
 Founders:
