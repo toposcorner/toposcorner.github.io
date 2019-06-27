@@ -12,6 +12,7 @@ body {
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
+  height: 100%;
   {% if site.page-img %}
   background-image: url({{ site.page-img }});
   background-attachment: fixed;
@@ -592,6 +593,7 @@ footer .theme-by {
     display: block;
   }
   .intro-header.big-img {
+    height: 100%;
     background: no-repeat top center;
     background-attachment: initial;
     width: 100%;
