@@ -312,6 +312,15 @@ footer a {
   color: {{site.footer-link-col}};
 }
 
+.fa-inverse {
+    color: {{ site.footer-col }};
+}
+
+.fa-inverse:hover{
+    color: {{site.footer-link-col}};
+}
+
+
 footer .list-inline {
   margin: 0;
   padding: 0;
@@ -736,9 +745,9 @@ footer .theme-by {
 }
 .pager li a:hover,
 .pager li a:focus {
-  color: #FFF;
-  border: 1px solid {{ site.hover-col }};
-  background-color: {{ site.hover-col }};
+  color: {{ site.hover-col }};
+  border: 1px solid #FFF;
+  background-color: #FFF;
 }
 
 .pager {
