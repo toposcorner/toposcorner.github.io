@@ -25,7 +25,7 @@ Keith & Juan.
 
 ### Updates
 
-We ask for patience because many web [features](https://toposcorner.github.io//2019-06-24-Possible-Website-Updates/) are still being implemented, in the meantime you can check the [markdown tutorial](https://toposcorner.github.io/2015-02-28-test-markdown/) or some sample posts by Juan or Keith.
+We ask for patience because many web [features](https://toposcorner.github.io/2019-06-26-Possible-Website-Updates/) are still being implemented, in the meantime you can check the [markdown tutorial](https://toposcorner.github.io/2015-02-28-test-markdown/) or some sample posts by Juan or Keith.
 
 We also want to hear your feedback about the site !!
 
