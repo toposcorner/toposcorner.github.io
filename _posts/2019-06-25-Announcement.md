@@ -4,6 +4,7 @@ title: Announcement
 subtitle: Welcome to Topos-Corner
 tags: [Meta,Community,Announcements,Moderator]
 comments: true
+image: /img/small-stars-announce-blue-post.png
 author: Staff
 ---
 
