@@ -71,11 +71,12 @@
 			{% endif %}
 		  {% endif %}
 		{% if page.use-site-title %}
-		  <ul class="homiesmall" style="list-style: none; ">
-			  <li class="next">
-				  <a href="{{ page.highlight-link }}">{{ page.highlight-text }}</a>
-			  </li>
-		</ul>
+		<div class="button-pulse" style="--bg-color: #1ea1f2;/* padding: 30px 0px; */padding-top: 30px;/* padding-bottom: 10px; */">
+  		  <div class="button__wrapper">
+    		    <div class="pulsing"></div>
+    		      <button onclick="location.href='{{ page.highlight-link }}'" >{{ page.highlight-text }}</button>
+  		  </div>
+		</div>
 		{% endif %}
 		  {% if include.type == "post" %}
 		  	{% if page.author %}
