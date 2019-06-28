@@ -9,6 +9,13 @@ author: Staff
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. <img style="float: right;" src="http://casual-effects.com/markdeep/robot.jpg"> If I ended a relationship  with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
 
+<p class="codepen" data-height="265" data-theme-id="0" data-default-tab="js,result" data-user="giaco" data-slug-hash="RzjMBY" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Swing">
+  <span>See the Pen <a href="https://codepen.io/giaco/pen/RzjMBY/">
+  Swing</a> by Pogany (<a href="https://codepen.io/giaco">@giaco</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Check out my iOS game, High5! <a href="https://t.co/QZEKLg3G2i">https://t.co/QZEKLg3G2i</a></p>&mdash; KeitaItoUI (@keitaitok) <a href="https://twitter.com/keitaitok/status/504110217940836353?ref_src=twsrc%5Etfw">August 26, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
