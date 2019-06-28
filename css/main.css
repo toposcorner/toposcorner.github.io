@@ -938,7 +938,6 @@ td.gutter {
 	position: absolute;
 }
 
-{% if page.use-site-title %}
 * {
   box-sizing: border-box;
 }
@@ -946,7 +945,7 @@ div:before{
   content: "";
   position: absolute;
 }
-{% endif %}
+
 button {
   background: transparent;
   color: #fff;
