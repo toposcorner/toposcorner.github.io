@@ -503,7 +503,7 @@ footer .theme-by {
   transition: opacity 1s linear;
 }
 .intro-header .page-heading {
-  text-align: center;
+  text-align: -webkit-center;
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
