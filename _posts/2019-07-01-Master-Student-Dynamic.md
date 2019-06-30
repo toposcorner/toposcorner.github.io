@@ -13,7 +13,7 @@ Maximising the effectiveness of a teacher in the student process is a difficult 
 I started thinking about this while listening to the MIT AI podcast, featuring Alexei Friedman and Eric Weinstein. In the very first minute of the podcast they address this very topic:
 
 <div class="iframeVideo">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2wq9x2QcZN0start=50&end=115" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2wq9x2QcZN0?start=50&end=115" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
 I've heard about this idea before, however I've never really thought how I've experienced it myself. So in the rest of the article I'll talk about how this concept has applied to me in three different areas: School, Sports and Philosophy.
@@ -24,7 +24,7 @@ I've always been a protector of magistral lectures, as controversial as it might
 
 As a more concrete example, when I was a junior in college, my professor said:
 
-> The key to solving this «difficult» problem lies in this **tool**, Professor.
+> The key to solving this «difficult» problem lies in this **tool**, *Professor*.
 
 I didn't really paid much attention to the comment because I didn't yet have enough understanding of the problem in order to fully appreciate the extent of that comment.
 
@@ -38,13 +38,13 @@ In sports, this dynamic is present everywhere and it is perhaps why it is easily
 
 My example comes from training tennis, and I think, it can be extended to all sports. It is about the serving technique:
 
-------- Roger Gif Serving-------
+![Federer](https://thumbs.gfycat.com/LikableScalyBighornedsheep-size_restricted.gif)
 
 Service is perhaps the most important stroke in tennis, however it is as difficult as it is fundamental. You must throw the Ball in the right way, hit it in the right moment, with the right force and with the right body motion. It is not as easy as Roger make it seem, a good service takes years of practice.
 
 In particular I always have struggled with ball throwing, my ball always bent to much to the left. Recently my coach noticed that and put his hand on my back when I was throwing the ball. He said,
 
-> When you throw the ball, my hand should not move, Coach.
+> When you throw the ball, my hand should not move, *Coach*.
 
 I didn't notice at first, but when he removed his hand, I immediately realized that the feeling of the pressure of his hand was not there. Somehow I became self-aware of my technique problem. Then by throwing a couple more balls I improved my throwing motion.
 
