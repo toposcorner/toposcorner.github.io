@@ -2,7 +2,7 @@
 layout: post
 title: Master-Student Dynamic
 subtitle: An exchange that is very brief
-bigimg: /img/path.jpg
+bigimg: /img/9E5BB0F6-1352-4DEE-968A-BCC7A540BBA6.png
 tags: [learning,teaching,education]
 author: Keith Patarroyo
 ---
