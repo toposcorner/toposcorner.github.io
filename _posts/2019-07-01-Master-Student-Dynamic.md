@@ -13,10 +13,8 @@ Maximising the effectiveness of a teacher in the student process is a difficult 
 I started thinking about this while listening to the MIT AI podcast, featuring Alexei Friedman and Eric Weinstein. In the very first minute of the podcast they address this very topic:
 
 <div class="iframeVideo">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2wq9x2QcZN0?t=51" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2wq9x2QcZN0start=50&end=115" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
-
--------Video-------
 
 I've heard about this idea before, however I've never really thought how I've experienced it myself. So in the rest of the article I'll talk about how this concept has applied to me in three different areas: School, Sports and Philosophy.
 
@@ -26,11 +24,11 @@ I've always been a protector of magistral lectures, as controversial as it might
 
 As a more concrete example, when I was a junior in college, my professor said:
 
-> The key to solving this «difficult» problem lies in this tool, Professor.
+> The key to solving this «difficult» problem lies in this **tool**, Professor.
 
 I didn't really paid much attention to the comment because I didn't yet have enough understanding of the problem in order to fully appreciate the extent of that comment.
 
-Later on, in the test day, she gave us this problem to solve ! In the beginning of the exam I had no idea how to solve the problem, I had struggled, and I failed to solve it in the past. However she framed the question in such a way that her comment made a lot of sense(or at least I thought so). Then by rewriting the problem using this tool, I was able to see the problem in a new way, thereby solving it.
+Later on, in the *test* day, she gave us this problem to solve ! In the beginning of the exam I had no idea how to solve the problem, I had struggled, and I failed to solve it in the past. However she framed the question in such a way that her comment made a lot of sense(or at least I thought so). Then by rewriting the problem using this **tool**, I was able to see the problem in a new way, thereby solving it.
 
 This very same process is repeated time and time again in the process of learning, in fact the discovery of QED by physicist Richard Feynman can be broken down to this very moment. Where the master was P. Dirac and Feynman was the student.
 
@@ -52,7 +50,7 @@ I didn't notice at first, but when he removed his hand, I immediately realized t
 
 In sports as in school there are no rules to decide what would generate this aha moments, what works on someone might not work on someone else. In addition sometimes one needs a reframing of the problem in order to understand it first(other times one-self can infer this reframing as Feynman did on his discovery). This is perhaps why is so difficult to become a good master, to some extent you have to have a pool of possible solutions(commonly known as experience) and also know when to apply it. The problem of artificially generating this process is so important that the scientist V. Vapnik claims that this is a key element of intelligence.
 
-Philosophy
+## Philosophy
 
 The next part is a little less serious, nevertheless it is interesting to ponder.
 
@@ -62,6 +60,6 @@ Is the enlightenment a period of history ? or does it refer to the fact that by 
 
 Actually I like to think about the enlightenment in the Indian sense. In this sense, when someone achieves enlightenment, he somehow concibe certain New insight on a knowledge. However the raw knowledge was always there, it is this new insight that allows one to achieve a sense of enlightenment.
 
-The human civilization have been characterized by our incredible amount of stored knowledge. One way to transmit the understanding of this knowledge is by being taught by a master, and take a note that I mean understanding, the raw knowledge itself can be stored in a library. But the act of teaching or enlightening somebody is one way we have found to effectively share insight.
+The human civilization have been characterized by our incredible amount of stored knowledge. One way to transmit the *understanding* of this knowledge is by being taught by a master, and take a note that I mean *understanding*, the raw knowledge itself can be stored in a library. But the act of teaching or enlightening somebody is one way we have found to effectively share insight.
 
 Thereby I believe that the Master-Student Dynamic is a key part of the human civilization, something which is bright in itself.
