@@ -37,17 +37,15 @@ Other incredible story is captured by [John D. Cook](https://www.johndcook.com/b
 
 My example comes from training tennis, and I think, it can be extended to all sports. It is about the serving technique:
 
-<p align="center">
-![Federer](https://thumbs.gfycat.com/LikableScalyBighornedsheep-size_restricted.gif)
-</p>
+![Federer](https://thumbs.gfycat.com/LikableScalyBighornedsheep-size_restricted.gif?style=centerme)
 
-Service is perhaps the most important stroke in tennis, however it is as difficult as it is fundamental. You must throw the Ball in the right way, hit it in the right moment, with the right force and with the right body motion. It is not as easy as Roger make it seem, a good service takes years of practice.
+Service is perhaps the most important stroke in tennis, however it is as difficult as it is fundamental. You must throw the Ball in the right way, hit it in the right moment, with the right force and with the right body motion. It is not as easy as [Roger](https://www.rogerfederer.com/) make it seem, a good service takes years of practice.
 
 In particular I always have struggled with ball throwing, my ball always bent to much to the left. Recently my coach noticed that and put his hand on my back when I was throwing the ball. He said,
 
 > When you throw the ball, my hand should not move, *Coach*.
 
-I didn't notice at first, but when he removed his hand, I immediately realized that the feeling of the pressure of his hand was not there. Somehow I became self-aware of my technique problem. Then by throwing a couple more balls I improved my throwing motion.
+I didn't notice at first, but when he removed his hand, I immediately realized the feeling of pressure from his hand was not there. Somehow I became self-aware of my technique problem. Then by throwing a couple more balls I started to improve my throwing motion.
 
 In sports as in school there are no rules to decide what would generate this aha moments, what works on someone might not work on someone else. In addition sometimes one needs a reframing of the problem in order to understand it first(other times one-self can infer this reframing as Feynman did on his discovery). This is perhaps why is so difficult to become a good master, to some extent you have to have a pool of possible solutions(commonly known as experience) and also know when to apply it. The problem of artificially generating this process is so important that the scientist V. Vapnik claims that this is a key element of intelligence.
 
