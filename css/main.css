@@ -938,6 +938,8 @@ td.gutter {
 	position: absolute;
 }
 
+/* --- Pulsating Button --- */
+
 * {
   box-sizing: border-box;
 }
@@ -1064,3 +1066,9 @@ button {
   }
 }
 
+/* --- Center Image markdown --- */
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
