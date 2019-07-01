@@ -37,9 +37,9 @@ Other incredible story is captured by [John D. Cook](https://www.johndcook.com/b
 
 My example comes from training tennis, and I think, it can be extended to all sports. It is about the serving technique:
 
-<div style="text-align:center">
+<p align="center">
 ![Federer](https://thumbs.gfycat.com/LikableScalyBighornedsheep-size_restricted.gif)
-</div>
+</p>
 
 Service is perhaps the most important stroke in tennis, however it is as difficult as it is fundamental. You must throw the Ball in the right way, hit it in the right moment, with the right force and with the right body motion. It is not as easy as Roger make it seem, a good service takes years of practice.
 
