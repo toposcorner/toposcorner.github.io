@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Master-Student Dynamic
-subtitle: An exchange that is very brief
+subtitle: Knowledge transfer is brief but intense
 bigimg: /img/9E5BB0F6-1352-4DEE-968A-BCC7A540BBA6.png
-tags: [learning,teaching,education]
+comments: true
+tags: [Learning,Teaching,Education]
 author: Keith Patarroyo
 ---
-Lately I've been thinking about the role of a teacher in the process of learning. A lot has been written about teaching, about self-learning, some people even believe that roughly a teacher cannot contribute more than 20% in the process of learning.
+Lately I've been thinking about the role of a teacher in the process of learning. Everybody likes to criticize teachers, the education system, instead valuing only self-learning and other alterniative learning materials. As a consequence many missconcepctions are widely propagated, some people even believe that roughly a teacher cannot contribute more than 20% in the process of learning.
 
-Maximising the effectiveness of a teacher in the student process is a difficult topic that I'll not address here. My main interest lie in these "aha" moments that are produced as a result of some key insight given by the teacher.
+Maximising the effectiveness of a teacher in the student process is a difficult topic that I'll not address here. My main interest lie in discussing these "aha" moments that are produced as a result of some key insight given by the teacher. These moments are what I denote as: **Master-Student Dynamic**.
 
-I started thinking about this while listening to the MIT AI podcast, featuring Alexei Friedman and Eric Weinstein. In the very first minute of the podcast they address this very topic:
+I started thinking about this while listening to the [MIT AI podcast](https://lexfridman.com/ai/), featuring [Alexei Fridman](https://lexfridman.com/) and [Eric Weinstein](https://www.edge.org/memberbio/eric_r_weinstein). In the very first minute of the podcast they address this very topic:
 
 <div class="iframeVideo">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2wq9x2QcZN0?start=50&end=115" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -20,7 +21,7 @@ I've heard about this idea before, however I've never really thought how I've ex
 
 ## School
 
-I've always been a protector of magistral lectures, as controversial as it might be, this lectures with no interruptions allow the teacher to summarize from his own point of view how he understands an idea. Whether this is the only thing a teacher should be doing or not, is an entire different matter. I believe that much of the student notion of a concept is the fight between his understanding and the different points of views which he has been presented with.
+I've always been a protector of magistral lectures, as controversial as it might be, this lectures with no interruptions allow the teacher to summarize from his own point of view how he understands an idea. Whether this is the only thing a teacher should be doing or not, is an entire different matter. I believe that much of the student notion of a concept is the fight between his understanding and the different points of views which he has been presented with. 
 
 As a more concrete example, when I was a junior in college, my professor said:
 
@@ -30,15 +31,15 @@ I didn't really paid much attention to the comment because I didn't yet have eno
 
 Later on, in the *test* day, she gave us this problem to solve ! In the beginning of the exam I had no idea how to solve the problem, I had struggled, and I failed to solve it in the past. However she framed the question in such a way that her comment made a lot of sense(or at least I thought so). Then by rewriting the problem using this **tool**, I was able to see the problem in a new way, thereby solving it.
 
-This very same process is repeated time and time again in the process of learning, in fact the discovery of QED by physicist Richard Feynman can be broken down to this very moment. Where the master was P. Dirac and Feynman was the student.
+Other incredible story is captured by [John D. Cook](https://www.johndcook.com/blog/services-2/) in his explanation of [Lagrange Multipliers](https://www.johndcook.com/blog/2016/09/27/one-of-my-favorite-proofs-lagrange-multipliers/). This very same process is repeated time and time again in the process of learning, in fact the discovery of [QED](https://en.wikipedia.org/wiki/Quantum_electrodynamics) by physicist [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) can be broken down to this very [moment](https://aapt.scitation.org/doi/abs/10.1119/1.18114). Where in his noble lecture he tells the story of how he re-interpreted P. Dirac words and how a Student-teacher dynamic appeard where the master was Dirac and Feynman was the student.
 
 ## Sports
 
-In sports, this dynamic is present everywhere and it is perhaps why it is easily exemplified in the movie Kung Fu Panda. The moment comes as the movie shows a master present an idea, tactic or technique to the student. And until the student kind of becomes self aware of this teaching and tries to follow the master advice, then he can improve his weaknesses.
-
 My example comes from training tennis, and I think, it can be extended to all sports. It is about the serving technique:
 
+<div style="text-align:center">
 ![Federer](https://thumbs.gfycat.com/LikableScalyBighornedsheep-size_restricted.gif)
+</div>
 
 Service is perhaps the most important stroke in tennis, however it is as difficult as it is fundamental. You must throw the Ball in the right way, hit it in the right moment, with the right force and with the right body motion. It is not as easy as Roger make it seem, a good service takes years of practice.
 
