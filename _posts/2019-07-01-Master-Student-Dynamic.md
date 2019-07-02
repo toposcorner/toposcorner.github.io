@@ -41,7 +41,7 @@ My example comes from training tennis, and I think, it can be extended to all sp
 
 Service is perhaps the most important stroke in tennis, however it is as difficult as it is fundamental. You must throw the Ball in the right way, hit it in the right moment, with the right force and with the right body motion. It is not as easy as [Roger](https://www.rogerfederer.com/) make it seem, a good service takes years of practice.
 
-In particular I always have struggled with ball throwing, my ball always bent to much to the left. Recently my coach noticed that and put his hand on my back when I was throwing the ball. He said,
+In particular I have always struggled with ball throwing, my ball always bent to much to the left. Recently my coach noticed that and put his hand on my back when I was throwing the ball. He said,
 
 > When you throw the ball, my hand should not move, *Coach*.
 
@@ -55,7 +55,7 @@ The next part is a little less serious, nevertheless it is interesting to ponder
 
 > What is really the so-called enlightenment ?
 
-Is the enlightenment a [period](https://en.wikipedia.org/wiki/Age_of_Enlightenment) of history ? or does it refer to the fact that somehow by using logic and reasoning, or the so-called scientific process we are able to "discover" deeper truths about the world ? This process of discovery may to some extent clarify or *lighten* our perception of the world.
+Is the enlightenment a [period](https://en.wikipedia.org/wiki/Age_of_Enlightenment) of history ? or does it refer to the fact that somehow by using logic and reasoning, or the so-called scientific process we are able to "discover" deeper truths about the world ? This process of discovery is sometimes claimed to clarify or *lighten* our perception of the world.
 
 Actually I like to think about the enlightenment in the Indian [sense](https://en.wikipedia.org/wiki/Enlightenment_(spiritual)). In this sense, when someone achieves enlightenment, he somehow concibe certain **new insight** on certain knowledge. However the raw knowledge was always there, it is this new insight that allows one to achieve a sense of realization or enlightenment.
 
