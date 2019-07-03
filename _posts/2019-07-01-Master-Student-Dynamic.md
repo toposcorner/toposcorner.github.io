@@ -9,6 +9,16 @@ author: Keith Patarroyo
 ---
 Lately, I've been thinking about the role of a teacher in the process of learning. Everybody likes to criticize teachers, the education system, and blindly valuing only self-learning and other alternative learning materials. As a consequence many misconceptions are widely propagated, some people even believe that roughly a teacher cannot contribute more than 20% in the process of learning.
 
+<img id="myImg" src="https://www.w3schools.com/jsref/compman.gif" width="107" height="98">
+
+<script>
+    $(window).resize(function() {
+    $("#dimensions").html($(window).width());
+    document.getElementById("myImg").height = $(window).height();
+        document.getElementById("myImg").width = $(window).width();
+}).resize();
+</script>
+
 Maximizing the effectiveness of a teacher in the student process is a difficult topic that I'll not address here. My main interest lies in discussing these "aha" moments that are produced as a result of some key insight given by the teacher. These moments are what I denote as **Master-Student Dynamic**.
 
 I started thinking about this while listening to the [MIT AI podcast](https://lexfridman.com/ai/), featuring [Alexei Fridman](https://lexfridman.com/) and [Eric Weinstein](https://www.edge.org/memberbio/eric_r_weinstein). In the very first minute of the podcast they address this very topic:
