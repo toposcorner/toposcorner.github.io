@@ -590,7 +590,8 @@ footer .theme-by {
 @media only screen 
 and (min-device-width : 768px) 
 and (max-device-width : 1024px)  { 
-    background: no-repeat top center initial;
+  background: no-repeat center center;
+  background-attachment: initial;
 
 
 }
