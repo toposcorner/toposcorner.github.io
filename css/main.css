@@ -590,10 +590,10 @@ footer .theme-by {
 @media only screen 
 and (min-device-width : 768px) 
 and (max-device-width : 1024px)  { 
-  background: no-repeat center center;
-  background-attachment: initial;
-
-
+  .intro-header.big-img {
+    background: no-repeat center center;
+    background-attachment: initial;
+    }
 }
 @media only screen and (max-width: 375px) and (orientation : portrait){
   .header-section.has-img .intro-header.no-img {
