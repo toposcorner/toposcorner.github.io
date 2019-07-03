@@ -590,7 +590,7 @@ footer .theme-by {
 @media only screen 
 and (min-device-width : 768px) 
 and (max-device-width : 1024px)  { 
-    background: no-repeat top center scroll;
+    background: no-repeat top center unset;
 
 
 }
