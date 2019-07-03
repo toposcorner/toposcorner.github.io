@@ -586,6 +586,14 @@ footer .theme-by {
 .header-section.has-img .intro-header.no-img {
   display: none;
 }
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  { 
+    background: no-repeat top center scroll;
+
+
+}
 @media only screen and (max-width: 375px) and (orientation : portrait){
   .header-section.has-img .intro-header.no-img {
     display: block;
