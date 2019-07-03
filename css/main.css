@@ -490,7 +490,7 @@ footer .theme-by {
   margin-bottom: 0px;
 }
 }
-@media not (hover: hover) {
+@media not all and (hover: hover) {
   .intro-header.big-img {
     background: no-repeat center center;
     background-attachment: initial;
