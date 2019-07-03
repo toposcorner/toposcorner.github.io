@@ -597,6 +597,7 @@ footer .theme-by {
     height: 250px;
     margin-top: 0px;
     background-size: 443px 250px;
+    z-index: -10;
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
