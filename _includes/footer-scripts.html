@@ -31,3 +31,9 @@
   {% endfor %}
 {% endif %}
 
+<script>
+    $(window).resize(function() {
+    document.getElementById("myImg").height = $(window).height();
+        document.getElementById("myImg").width = $(window).width();
+}).resize();
+</script>
