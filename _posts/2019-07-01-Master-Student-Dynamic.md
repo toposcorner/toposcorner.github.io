@@ -11,13 +11,6 @@ Lately, I've been thinking about the role of a teacher in the process of learnin
 
 <img id="myImg" src="https://www.w3schools.com/jsref/compman.gif" width="107" height="98">
 
-<script>
-    $(window).resize(function() {
-    $("#dimensions").html($(window).width());
-    document.getElementById("myImg").height = $(window).height();
-        document.getElementById("myImg").width = $(window).width();
-}).resize();
-</script>
 
 Maximizing the effectiveness of a teacher in the student process is a difficult topic that I'll not address here. My main interest lies in discussing these "aha" moments that are produced as a result of some key insight given by the teacher. These moments are what I denote as **Master-Student Dynamic**.
 
