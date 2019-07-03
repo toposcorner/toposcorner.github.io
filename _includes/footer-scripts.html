@@ -30,3 +30,17 @@
     {% endif %}
   {% endfor %}
 {% endif %}
+<script type="text/javascript">
+//<![CDATA[
+
+    $(window).load(function(){
+      
+$(window).resize(function() {
+    $("#dimensions").html($(window).width());
+    document.getElementById("myImg").height = $(window).height()/1;
+    document.getElementById("myImg").width = $(window).width()/1;
+}).resize();
+
+    });
+
+//]]></script>
