@@ -1,3 +1,14 @@
+<script >
+//<![CDATA[
+
+    $(window).load(function(){
+      
+$(window).resize(function() {
+    document.getElementById('interactive').style.height= String($(window).height())+'px';
+}).resize();
+
+    });
+</script>
 {% if layout.common-ext-js %}
   {% for js in layout.common-ext-js %}
     {% include ext-js.html js=js %}
@@ -30,14 +41,3 @@
     {% endif %}
   {% endfor %}
 {% endif %}
-<script >
-//<![CDATA[
-
-    $(window).load(function(){
-      
-$(window).resize(function() {
-    document.getElementById('interactive').style.height= String($(window).height())+'px';
-}).resize();
-
-    });
-</script>
