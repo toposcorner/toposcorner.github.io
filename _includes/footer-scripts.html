@@ -38,7 +38,7 @@
 $(window).resize(function() {
     document.getElementById("myImg").height = $(window).height()/1;
     document.getElementById("myImg").width = $(window).width()/1;
-    document.getElementById('interactive').style.width= $(window).height();
+    document.getElementById('interactive').style.height= String($(window).height())+'px';
 }).resize();
 
     });
