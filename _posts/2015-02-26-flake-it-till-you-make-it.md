@@ -58,4 +58,57 @@ The truth is that no one else can definitively know the path we are here to walk
 </div>
 The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
 
-<script id="WolframAlphaScript" src="//www.wolframalpha.com/input/embed/?type=small" type="text/javascript"></script>
+  <script src="https://cdn.pubnub.com/pubnub-3.15.1.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+  <script src="https://cdn.pubnub.com/sdk/pubnub-angular/pubnub-angular-3.2.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+
+<div class="container" ng-app="PubNubAngularApp" ng-controller="MyQandACtrl">
+
+<h3>Wolfram Alpha Questions &amp; Answers Engine</h3>
+
+<input ng-model="toSend" />
+<input type="button" ng-click="publish()" value="Send!" />
+
+<br /><br />
+
+<ul>
+  <li ng-repeat="message in messages track by $index">
+    Q: {{message.text}}
+    <br />
+    A: {{message.answer}}
+  </li>
+</ul>
+
+</div>
+
+<script>
+angular.module('PubNubAngularApp', ["pubnub.angular.service"])
+.controller('MyQandACtrl', function($rootScope, $scope, Pubnub) {
+  $scope.messages     = [];
+  $scope.channel   = 'wolfram-channel-v2';
+  if (!$rootScope.initialized) {
+    Pubnub.init({
+      publish_key: 'pub-c-85736cb2-5b04-47bf-98e3-f08b3d5de1d4',
+      subscribe_key: 'sub-c-63d99dd4-9e71-11e9-806d-8e5101bba1a5',
+      ssl:true
+    });
+    $rootScope.initialized = true;
+  }
+  var msgCallback = function(payload) {
+    $scope.$apply(function() {
+      $scope.messages.unshift(payload);
+    });
+  };
+  $scope.publish = function() {
+    Pubnub.publish({
+      channel: $scope.channel,
+      message: {text:$scope.toSend}
+    });
+    $scope.toSend = "";
+  };
+  Pubnub.subscribe({ channel: [$scope.channel], message: msgCallback });
+});
+</script>
