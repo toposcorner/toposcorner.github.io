@@ -60,5 +60,7 @@ The truth is that no one else can definitively know the path we are here to walk
 
 <iframe src="https://toposcorner.github.io/img/wolfram.html" width="305" height="250" scrolling="no"></iframe>
 <div style="text-align: right">
+	
 *taken from [PubNub/Blog](https://www.pubnub.com/blog/2016-12-21-building-intelligent-q-and-a-apps-with-wolfram-alpha-api-computational-knowledge/)*
+
 </div>
