@@ -58,9 +58,9 @@ The truth is that no one else can definitively know the path we are here to walk
 </div>
 The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
 
-  <script src="https://cdn.pubnub.com/pubnub-3.15.1.min.js"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
-  <script src="https://cdn.pubnub.com/sdk/pubnub-angular/pubnub-angular-3.2.1.min.js"></script>
+  <script src="https://cdn.pubnub.com/sdk/javascript/pubnub.4.5.0.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+  <script src="https://cdn.pubnub.com/sdk/pubnub-angular/pubnub-angular-4.0.2.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
 
 <div class="container" ng-app="PubNubAngularApp" ng-controller="MyQandACtrl">
@@ -89,8 +89,8 @@ angular.module('PubNubAngularApp', ["pubnub.angular.service"])
   $scope.channel   = 'wolfram-channel-v2';
   if (!$rootScope.initialized) {
     Pubnub.init({
-      publish_key: 'pub-c-85736cb2-5b04-47bf-98e3-f08b3d5de1d4',
-      subscribe_key: 'sub-c-63d99dd4-9e71-11e9-806d-8e5101bba1a5',
+      publishKey: 'pub-c-85736cb2-5b04-47bf-98e3-f08b3d5de1d4',
+      subscribeKey: 'sub-c-63d99dd4-9e71-11e9-806d-8e5101bba1a5',
       ssl:true
     });
     $rootScope.initialized = true;
@@ -107,6 +107,7 @@ angular.module('PubNubAngularApp', ["pubnub.angular.service"])
     });
     $scope.toSend = "";
   };
-  Pubnub.subscribe({ channel: [$scope.channel], message: msgCallback });
+  Pubnub.subscribe({ channels: [$scope.channel] });
+  Pubnub.addListener({ message: msgCallback });
 });
 </script>
