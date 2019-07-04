@@ -38,3 +38,9 @@ At the heart of the struggle are two very different ideas of success—survival-
   <canvas id="weierstrass" width="400px" height="300px">
   </canvas>
 </div>
+<div style="align: center;">
+  t = <span id="tvalue"></span>
+  <div style="display: inline-block; width: 70%; padding-left: 30px;">
+    <div id="tslider"></div>
+  </div>
+</div>
