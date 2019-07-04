@@ -44,3 +44,15 @@ At the heart of the struggle are two very different ideas of success—survival-
     <div id="tslider"></div>
   </div>
 </div>
+The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+
+<link href="https://ncase.me/ballot/css/index.css" rel="stylesheet" />
+
+<div class="sim-intro">
+
+	<p class="caption" style="margin-top:30px">
+		<b><span style="font-size:2.5em;">click &amp; drag</span><br>the candidates and the voter:</b>
+	</p>
+	<iframe src="https://ncase.me/ballot/play/model1.html" width="305" height="360" scrolling="no"></iframe>
+
+</div>
