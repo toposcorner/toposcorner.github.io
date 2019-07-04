@@ -27,3 +27,14 @@ A soulful notion of success rests on the actualization of our innate image. Succ
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+
+<p><link href="https://rmarcus.info/blog//assets/weierstrass/nouislider.min.css" rel="stylesheet" />
+<script src="https://rmarcus.info/blog//assets/weierstrass/nouislider.min.js"></script>
+<script src="https://rmarcus.info/blog//assets/weierstrass/weierstrass.min.js"></script></p>
+
+<div align="center">
+  <canvas id="weierstrass" width="400px" height="300px">
+  </canvas>
+</div>
