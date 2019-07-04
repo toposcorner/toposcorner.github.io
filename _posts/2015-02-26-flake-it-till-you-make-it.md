@@ -13,6 +13,12 @@ The truth is that no one else can definitively know the path we are here to walk
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Check out my iOS game, High5! <a href="https://t.co/QZEKLg3G2i">https://t.co/QZEKLg3G2i</a></p>&mdash; KeitaItoUI (@keitaitok) <a href="https://twitter.com/keitaitok/status/504110217940836353?ref_src=twsrc%5Etfw">August 26, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div style="text-align: right">
+	
+*Embeded from [Twitter](https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview)*
+
+</div>
+
 At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
 
 <div class="iframeVideo">
@@ -27,6 +33,12 @@ A soulful notion of success rests on the actualization of our innate image. Succ
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+<div style="text-align: right">
+	
+*Embeded from [CodePen](https://blog.codepen.io/documentation/features/embedded-pens/)*
+
+</div>
 
 At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
 
@@ -44,6 +56,12 @@ At the heart of the struggle are two very different ideas of success—survival-
     <div id="tslider"></div>
   </div>
 </div>
+</div>
+<div style="text-align: right">
+	
+*taken from [Ryan Marcus](https://rmarcus.info/blog/2016/09/09/weierstrass-transform.html)*
+
+</div>
 The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
 
 <link href="https://ncase.me/ballot/css/index.css" rel="stylesheet" />
@@ -54,6 +72,11 @@ The truth is that no one else can definitively know the path we are here to walk
 		<b><span style="font-size:2.5em;">click &amp; drag</span><br>the candidates and the voter:</b>
 	</p>
 	<iframe src="https://ncase.me/ballot/play/model1.html" width="305" height="360" scrolling="no"></iframe>
+
+</div>
+<div style="text-align: right">
+	
+*taken from [Nicky Case](https://ncase.me/ballot/)*
 
 </div>
 The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
