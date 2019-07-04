@@ -15,7 +15,7 @@ The truth is that no one else can definitively know the path we are here to walk
 
 <div style="text-align: right">
 	
-*Embeded from [Twitter](https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview)*
+Embeded from <a href="url">https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview</a>
 
 </div>
 
@@ -87,3 +87,5 @@ The truth is that no one else can definitively know the path we are here to walk
 *taken from [PubNub/Blog](https://www.pubnub.com/blog/2016-12-21-building-intelligent-q-and-a-apps-with-wolfram-alpha-api-computational-knowledge/)*
 
 </div>
+Center-aligned
+{: .alert .alert-info .text-center}
