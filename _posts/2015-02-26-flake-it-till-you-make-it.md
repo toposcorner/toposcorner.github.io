@@ -13,7 +13,7 @@ The truth is that no one else can definitively know the path we are here to walk
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Check out my iOS game, High5! <a href="https://t.co/QZEKLg3G2i">https://t.co/QZEKLg3G2i</a></p>&mdash; KeitaItoUI (@keitaitok) <a href="https://twitter.com/keitaitok/status/504110217940836353?ref_src=twsrc%5Etfw">August 26, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*Embeded from [Twitter](https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview)*
+*Embedded from [Twitter](https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview)*
 {: .alert .alert-info .text-right}
 
 At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
@@ -31,7 +31,7 @@ A soulful notion of success rests on the actualization of our innate image. Succ
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-*Embeded from [CodePen](https://blog.codepen.io/documentation/features/embedded-pens/)*
+*Embedded from [CodePen](https://blog.codepen.io/documentation/features/embedded-pens/)*
 {: .alert .alert-info .text-right}
 
 At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
@@ -63,7 +63,9 @@ The truth is that no one else can definitively know the path we are here to walk
 	<p class="caption" style="margin-top:30px">
 		<b><span style="font-size:2.5em;">click &amp; drag</span><br>the candidates and the voter:</b>
 	</p>
+	<div class="iframeVideo">
 	<iframe src="https://ncase.me/ballot/play/model1.html" width="305" height="360" scrolling="no"></iframe>
+	</div>
 
 </div>
 	
