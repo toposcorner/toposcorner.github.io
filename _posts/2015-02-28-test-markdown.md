@@ -5,7 +5,7 @@ subtitle: Each post also has a subtitle
 gh-repo: toposcorner/toposcorner.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
-comments: true
+comments: false
 author: Staff
 ---
 
