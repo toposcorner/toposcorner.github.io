@@ -58,7 +58,7 @@ The truth is that no one else can definitively know the path we are here to walk
 
 <link href="https://ncase.me/ballot/css/index.css" rel="stylesheet" />
 
-<div class="sim-intro">
+<div class="sim-intro" style="width: auto;">
 
 	<p class="caption" style="margin-top:30px">
 		<b><span style="font-size:2.5em;">click &amp; drag</span><br>the candidates and the voter:</b>
