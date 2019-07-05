@@ -63,9 +63,7 @@ The truth is that no one else can definitively know the path we are here to walk
 	<p class="caption" style="margin-top:30px">
 		<b><span style="font-size:2.5em;">click &amp; drag</span><br>the candidates and the voter:</b>
 	</p>
-	<div class="iframeVideo">
 	<iframe src="https://ncase.me/ballot/play/model1.html" width="305" height="360" scrolling="no"></iframe>
-	</div>
 
 </div>
 	
