@@ -73,3 +73,5 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+If you want to insert more advanced and richer HTML5 content check out the [Big image post example](https://toposcorner.github.io/2015-02-26-flake-it-till-you-make-it/) for some examples and contact the Staff for help with the formatting.
