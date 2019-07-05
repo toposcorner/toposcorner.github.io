@@ -3,6 +3,7 @@ layout: post
 title: Big image post example
 subtitle: Excerpt from Soulshaping by Jeff Brown
 bigimg: /img/path.jpg
+comments: false
 tags: [test]
 author: Staff
 ---
