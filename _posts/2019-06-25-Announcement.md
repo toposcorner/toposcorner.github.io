@@ -6,7 +6,7 @@ tags: [Meta,Community,Announcements,Moderator]
 comments: false
 image: /img/small-stars-announce-blue-post.png
 author: Staff
-share-img:/img/small-stars-announce-blue-post.png
+share-img: /img/small-stars-announce-blue-post.png
 ---
 
 The site is now open !
