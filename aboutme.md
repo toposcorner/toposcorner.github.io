@@ -2,6 +2,7 @@
 layout: page
 title: About us 
 subtitle: A bunch of enthusiastic minds
+share-img: /img/kung-fu.jpg
 ---
 
 We want to share our thoughts and hopefully in the road inspire someone.
