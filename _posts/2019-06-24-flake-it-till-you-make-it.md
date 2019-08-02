@@ -27,9 +27,9 @@ At the heart of the struggle are two very different ideas of success—survival-
 
 A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
 
-<p class="codepen" data-height="503" data-theme-id="0" data-default-tab="js,result" data-user="frost084" data-slug-hash="WgjOEE" style="height: 503px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="ThreeJS dancing bars">
-  <span>See the Pen <a href="https://codepen.io/frost084/pen/WgjOEE/">
-  ThreeJS dancing bars</a> by TheFrost (<a href="https://codepen.io/frost084">@frost084</a>)
+<p class="codepen" data-height="265" data-theme-id="0" data-default-tab="js,result" data-user="iondrimba" data-slug-hash="MxbmGr" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="💦 Rain Drops">
+  <span>See the Pen <a href="https://codepen.io/iondrimba/pen/MxbmGr/">
+  💦 Rain Drops</a> by Ion D. Filho (<a href="https://codepen.io/iondrimba">@iondrimba</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
